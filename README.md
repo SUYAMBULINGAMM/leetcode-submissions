@@ -34,10 +34,12 @@ Java/submissions/1-two-sum/
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SUYAMBULINGAMM/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SUYAMBULINGAMM/Leetcode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SUYAMBULINGAMM/Leetcode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SUYAMBULINGAMM/Leetcode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SUYAMBULINGAMM/Leetcode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |

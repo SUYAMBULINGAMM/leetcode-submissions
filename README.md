@@ -35,11 +35,13 @@ Java/submissions/1-two-sum/
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SUYAMBULINGAMM/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SUYAMBULINGAMM/Leetcode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SUYAMBULINGAMM/Leetcode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SUYAMBULINGAMM/Leetcode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SUYAMBULINGAMM/Leetcode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SUYAMBULINGAMM/Leetcode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SUYAMBULINGAMM/Leetcode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -61,4 +63,16 @@ Java/submissions/1-two-sum/
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SUYAMBULINGAMM/Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SUYAMBULINGAMM/Leetcode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SUYAMBULINGAMM/Leetcode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SUYAMBULINGAMM/Leetcode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
